@@ -7,7 +7,4 @@
 [Forum]() |
 [Discord]() |
 [YouTube]() |
-[X]()
-# **Soon**
-
 </div>
